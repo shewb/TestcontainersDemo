@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5QRE7chNEbyyupAVR0BBIJQaklfP2GydBOM3peyYeFYNsAyzJY9iXBFbwiPka5E6TRLYwu6dpwvhie9NW7TkHQ==",
+  "dgSpecHash": "7PwTvNI6u00FLlxBLpRmFHW+AVKeVm+6N4aZdltzVnr6gsRmKa/pAhTR4c19gREuz/xwOn4IV+rS82uNXaVAJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shewb\\source\\repos\\TestcontainersDemo\\CustomerService.Tests\\CustomerService.Tests.csproj",
   "expectedPackageFiles": [
@@ -107,8 +107,8 @@
     "C:\\Users\\Shewb\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512",
-    "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []

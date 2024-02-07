@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JPLTZFFWHsC3MBx8fgVmVpZmzAS4HNKVvaFwPBUlIwtcmEBrK56SbhRwEvWWemHl3gfuedePS4BxAd8rYXPh+g==",
+  "dgSpecHash": "6n9qpA4IkJD25qWNic/3/t17bv+6CYFSoGmWKjGTVSf/BNydAxr9okvSueyXCgQOhYuTvaYgIsjBiQTA0wiFvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shewb\\source\\repos\\TestcontainersDemo\\CustomerService\\CustomerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
-    "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\Shewb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
